@@ -15,5 +15,5 @@ A new and upcoming programming language.
 
 *More info soon...*
 
-- [website](https://phoenix-language.github.io/phoenix/)
+- [website](https://phoenix-language.github.io/web/)
 - [Discord Server](https://discord.gg/U4FmBUHzEP)
